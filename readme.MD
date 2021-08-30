@@ -1,4 +1,4 @@
-### Mia Bot
+### nezuko-bot
 Um bot simples para WhatsApp em português, atualmente na versão 1.1, atualizações em breve e cada vez com mais comandos
 
 ```bash
